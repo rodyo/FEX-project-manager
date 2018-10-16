@@ -1,0 +1,1 @@
+{"projects":{"inputs":[{"name":"command","kind":"required","type":"choices={'close' 'list' 'active' 'rename' 'delete' 'load' 'save' 'default'}"},{"name":"project","kind":"optional","type":"choices={'default'}"}]}}
